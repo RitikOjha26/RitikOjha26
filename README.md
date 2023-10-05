@@ -1,7 +1,7 @@
 ***
 ## 🚀 About Me
 Hello 👋, I am Ritik Ojha, a passionate Frontend Engineer from India, who creates stuff on the web and sometimes enjoys it too.
-- 🌐 website >> [www.Ritik.Portfolio](https://ritik-pf.vercel.app/)
+- 🌐 website >> [Ritik.Portfolio](https://ritik-pf.vercel.app/)
 - 👨🏼‍💻 building [Code Espresso: Realtime Editor](https://github.com/RitikOjha26/Code_espresso)
 - 🧠 learning NextJs, TypeScript & Design Patterns
 - 💜 spamming JavaScript, React and Sassy CSS
