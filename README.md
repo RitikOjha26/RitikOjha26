@@ -5,7 +5,7 @@ Hello 👋, I am Ritik Ojha, a passionate Frontend Engineer from India, who crea
 - 👨🏼‍💻 building [Code Espresso: Realtime Editor](https://github.com/RitikOjha26/Code_espresso)
 - 🧠 learning NextJs, TypeScript & Design Patterns
 - 💜 spamming JavaScript, React and Sassy CSS
-- 📃 get my [Resume](https://drive.google.com/file/d/1nyxn4FkQkLNxde43qXyQLC2YXB7L9Il-/view?usp=sharing)
+- 📃 get my [Resume](https://drive.google.com/file/d/1-3Sdkm7xMFxWFgUxBHZ39PGPaQZ5pNQT/view)
 - 💬 ask me about anything, I am happy to help
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ritik-ojha/) or  ojha.ritik99680@gmail.com
 - 🎥 fun fact: I am a Certified Gym Bro 💪🏼(⇀‸↼‶)ᕗ
